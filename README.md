@@ -1,3 +1,3 @@
 # CS 245 (Spring, 2020) Practice Assignment 04
 
-See assignment details on Canvas.
+Google sheets link: https://docs.google.com/spreadsheets/d/1bcX91_pwzt2ASzIn7kyezkCc8w1In5cRFuFkC-5Phls/edit?usp=sharing
